@@ -1,6 +1,3 @@
-# Statistics-with-SAS
-Business application With SAS helped me understand statistics and SAS better. I have done some of the problems during my coursework and 
-
 echo "# Statistics-with-SAS" >> README.md
 git init
 git add README.md
